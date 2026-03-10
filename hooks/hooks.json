@@ -1,5 +1,5 @@
 {
-  "description": "CW Flow hooks: ワーカー環境検出、セッション開始時のコンテキスト注入、AskUserQuestionブロック",
+  "description": "CC Nav hooks: ワーカー環境検出、セッション開始時のコンテキスト注入、AskUserQuestionブロック",
   "hooks": {
     "SessionStart": [
       {

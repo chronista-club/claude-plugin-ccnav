@@ -1,18 +1,18 @@
 {
-  "name": "cwflow",
-  "description": "Claude Workers (cw) parallel development workflow - clone-based workspace isolation for safe concurrent Claude Code sessions",
-  "version": "3.2.0",
+  "name": "ccnav",
+  "description": "Claude Code Navigator - ccws parallel development workflow with clone-based workspace isolation for safe concurrent Claude Code sessions",
+  "version": "4.0.0",
   "author": {
     "name": "Mako",
     "email": "mito@chronista.club"
   },
-  "repository": "https://github.com/chronista-club/claude-plugin-cwflow",
+  "repository": "https://github.com/chronista-club/claude-plugin-ccnav",
   "license": "MIT",
   "keywords": [
-    "claude-workers",
+    "claude-code-workspace",
     "parallel-development",
     "workspace",
-    "clone",
+    "navigator",
     "workflow"
   ]
 }
